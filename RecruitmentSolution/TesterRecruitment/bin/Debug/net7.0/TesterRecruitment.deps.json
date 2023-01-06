@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TesterRecruitment/1.0.0": {
+        "dependencies": {
+          "RecruitmentBOL": "1.0.0"
+        },
+        "runtime": {
+          "TesterRecruitment.dll": {}
+        }
+      },
+      "RecruitmentBOL/1.0.0": {
+        "runtime": {
+          "RecruitmentBOL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesterRecruitment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecruitmentBOL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

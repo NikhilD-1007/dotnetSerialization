@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TesterSwitch/1.0.0": {
+        "dependencies": {
+          "RecruitmentBOL": "1.0.0"
+        },
+        "runtime": {
+          "TesterSwitch.dll": {}
+        }
+      },
+      "RecruitmentBOL/1.0.0": {
+        "runtime": {
+          "RecruitmentBOL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesterSwitch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecruitmentBOL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
